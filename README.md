@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and machine learning.
 - 🌱 I’m currently learning web development and python.
 - 💞️ I’m looking to collaborate on many areas of web dev and machine learning.
-- 📫 How to reach me 
+- 📫 How to reach me : email id :akprajapati71004@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am enrolled ina course for machine learning and neutral networks...
 
