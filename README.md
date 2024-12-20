@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many areas of web dev and machine learning.
 - 📫 How to reach me : email id :akprajapati71004@gmail.com
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I am enrolled in a course for machine learning and neutral networks...
+- ⚡ Fun fact: I am facinated by the world of machine lerning and neural networks ......
 
 <!---
 abhishekk-prajapati/abhishekk-prajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
