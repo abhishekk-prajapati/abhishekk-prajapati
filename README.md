@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekk-prajapati
 - 👀 I’m interested in python and machine learning.
-- 🌱 I’m currently learning web development and python.
+- 🌱 I’m currently learning  web development and machine learning.
 - 💞️ I’m looking to collaborate on many areas of web dev and machine learning.
 - 📫 How to reach me : email id :akprajapati71004@gmail.com
 - 😄 Pronouns: he/him.
