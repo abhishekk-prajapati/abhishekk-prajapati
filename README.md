@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
-<h3 align="center">🚀 AI | Machine Learning | Data Science | Web Developer</h3>
+<h3 align="center">💻 Software Engineer | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+%7C+AI+Researcher;Python+Developer;Future+IIT+%7C+IISc+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Data+Science+and+AI+Explorer;Python+%7C+Web+Developer;Building+Intelligent+Systems+with+Code" />
 </p>
 
 <p align="center">
@@ -12,36 +12,40 @@
 ---
 
 ## 🧠 **About Me**
-💡 I'm a **Computer Science Engineering student** passionate about  
-**Machine Learning, Artificial Intelligence, and Data Science**.
+I'm a **Computer Science Engineering student** who loves turning  
+**data, math, and code into intelligent systems**.
 
-I love turning **data into intelligent systems** and building real-world ML models that solve meaningful problems.
+I enjoy building **machine learning models, data-driven applications, and web projects** that solve real-world problems.
 
-🎯 **Career Goal:** Research & engineering in **AI / Data Science (IITs, IISc, Industry)**  
+🎯 My goal is to become a **strong AI & software engineer** with solid foundations in **Machine Learning and Data Science**.
 
 ---
 
-## 🔬 **What I'm Working On**
-- 🤖 Machine Learning Models (Prediction, Classification, NLP)
-- 🌐 Full-Stack Web Development
-- 📊 Data Analysis & Visualization
-- 🧠 Neural Networks & Deep Learning
+## 🔬 **What I'm Learning & Building**
+- 🤖 Machine Learning (classification, prediction, regression)
+- 📊 Data Analysis using Pandas & NumPy
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🧠 AI & Neural Network fundamentals
 
 ---
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,html,css,js,react,git,github,vscode,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,linux" />
+</p>
+
+<p align="center">
+<b>Libraries & Tools:</b> Pandas • NumPy • Scikit-learn • Jupyter Notebook
 </p>
 
 ---
 
-## 📌 **Featured Projects**
+## 📌 **Highlighted Projects**
 | Project | Description |
 |--------|-------------|
-| ❤️ **Heart Disease Prediction** | ML model using Random Forest, Logistic Regression & Sigmoid Function |
-| 🌍 **Web Apps** | Full-stack web projects with modern UI |
-| 📊 **Data Science Models** | Regression, classification & prediction systems |
+| ❤️ **Heart Disease Prediction** | ML model using Random Forest, Logistic Regression & Sigmoid |
+| 📊 **Data Analysis Projects** | Exploratory data analysis using Pandas & NumPy |
+| 🌐 **Web Applications** | Clean and responsive web interfaces |
 
 ---
 
@@ -73,11 +77,11 @@ I love turning **data into intelligent systems** and building real-world ML mode
 ---
 
 ## ⚡ Fun Fact
-> **"I am fascinated by the world of Machine Learning and Neural Networks — turning mathematics into intelligence."**
+> I’m fascinated by how **Machine Learning and Neural Networks turn mathematics into intelligence.**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-✨ _Building the future with data, code, and intelligence._
+✨ _Learning every day. Building one project at a time._
