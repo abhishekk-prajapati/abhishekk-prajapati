@@ -31,7 +31,7 @@ I enjoy building **machine learning models, data-driven applications, and softwa
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,linux" />
 </p>
 
 <p align="center">
