@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Data+Science+and+AI+Explorer;Python+%7C+Web+Developer;Building+Intelligent+Systems+with+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Data+Science+and+AI+Explorer;Python+Developer;Building+Intelligent+Systems+with+Code" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 I'm a **Computer Science Engineering student** who loves turning  
 **data, math, and code into intelligent systems**.
 
-I enjoy building **machine learning models, data-driven applications, and web projects** that solve real-world problems.
+I enjoy building **machine learning models, data-driven applications, and software solutions** that solve real-world problems.
 
 🎯 My goal is to become a **strong AI & software engineer** with solid foundations in **Machine Learning and Data Science**.
 
@@ -24,14 +24,14 @@ I enjoy building **machine learning models, data-driven applications, and web pr
 ## 🔬 **What I'm Learning & Building**
 - 🤖 Machine Learning (classification, prediction, regression)
 - 📊 Data Analysis using Pandas & NumPy
-- 🌐 Web Development (HTML, CSS, JavaScript)
 - 🧠 AI & Neural Network fundamentals
+- 🐍 Advanced Python Backend Development
 
 ---
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,linux" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ I enjoy building **machine learning models, data-driven applications, and web pr
 |--------|-------------|
 | ❤️ **Heart Disease Prediction** | ML model using Random Forest, Logistic Regression & Sigmoid |
 | 📊 **Data Analysis Projects** | Exploratory data analysis using Pandas & NumPy |
-| 🌐 **Web Applications** | Clean and responsive web interfaces |
+| 🐍 **Python Scripts** | Automated tools and logic-based software projects |
 
 ---
 
