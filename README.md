@@ -1,84 +1,96 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
+<h3 align="center">Software Engineer | Machine Learning & Data Science Enthusiast</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+YOUR_NAME!+%F0%9F%91%8B;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;3rd+Year+B.Tech+Student;Actively+seeking+Internships!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+in+Progress;Data+Science+Enthusiast;Python+Developer;Building+Real-World+AI+Projects" />
+</p>
+
+---
+
+## 🧠 About Me
+I am a **Computer Science Engineering student** with a strong interest in  
+**Machine Learning, Data Science, and Software Development**.
+
+I focus on building **practical, real-world projects** that demonstrate:
+- Problem-solving ability  
+- Strong fundamentals in data and algorithms  
+- Clean and scalable code practices  
+
+🎯 Currently working towards becoming a **Machine Learning Engineer / Data Scientist**
+
+---
+
+## 🔬 Core Skills & Learning Focus
+- 🤖 Machine Learning (Supervised Learning, Model Evaluation)
+- 📊 Data Analysis (Pandas, NumPy, Data Cleaning)
+- 🧠 Fundamentals of AI & Neural Networks
+- 🐍 Python Development (Scripts, Backend Logic)
+- 📈 Problem Solving & Logical Thinking
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+<b>Libraries & Tools:</b> Pandas • NumPy • Scikit-learn • Jupyter Notebook
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### ❤️ Heart Disease Prediction System
+- Built a machine learning model using **Logistic Regression & Random Forest**
+- Performed **data preprocessing, feature selection, and model evaluation**
+- Focused on improving prediction accuracy and interpretability
+
+---
+
+### 📊 Data Analysis Projects
+- Conducted **Exploratory Data Analysis (EDA)** on real-world datasets  
+- Used **Pandas & NumPy** for data cleaning, transformation, and insights  
+- Visualized trends and patterns for better decision-making  
+
+---
+
+### 🐍 Python Automation & Logic-Based Projects
+- Developed scripts to automate tasks and solve computational problems  
+- Strengthened understanding of **core programming and logic building**
+
+---
+
+## 📈 What Makes My Profile Strong
+- Focus on **practical implementation over theory**
+- Continuous learning in **AI, ML, and Data Science**
+- Writing clean, readable, and structured code
+- Building projects that solve **real-world problems**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="mailto:akprajapati71004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<p align="center">
-  A data-driven engineering student passionate about extracting insights from complex datasets and building predictive models. I love turning raw data into actionable stories and scalable machine learning solutions.
+<a href="https://github.com/abhishekk-prajapati">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishek-prajapati-243823223">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
+---
+
+## ⚡ Statement
+> Focused on building strong fundamentals and impactful projects in **Machine Learning and Data Science**.
+
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=World&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-</div>
-
 ---
-
-### 👨‍💻 About Me
-
-- 🎓 **Currently:** Pursuing my B.Tech degree (Pre-final year).
-- 🧠 **Focus Areas:** Data Analysis, Statistical Modeling, and Machine Learning algorithms.
-- 💼 **Looking for:** Data Science, Data Analyst, or Machine Learning internships where I can solve real-world problems.
-- 💡 **Interests:** Exploratory Data Analysis (EDA), Predictive Analytics, and building interactive data dashboards.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-*My toolkit for tackling data problems from extraction to visualization.*
-
-**Programming & Scripting** <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**Data Science & Machine Learning** <br>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Web & UI (For Model Deployment/Dashboards)** <br>
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools, Visualization & Environments** <br>
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" height="175" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" height="175" alt="top languages graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
+✨ *Consistent learning. Real projects. Long-term growth.*
