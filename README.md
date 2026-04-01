@@ -1,87 +1,65 @@
-<h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
-<h3 align="center">💻 Software Engineer | Machine Learning Enthusiast | Python Developer</h3>
+
+<h1 align="center">🚀 Abhishek Prajapati</h1>
+<h3 align="center">Software Engineer | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Data+Science+and+AI+Explorer;Python+Developer;Building+Intelligent+Systems+with+Code" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/abhishekk-prajapati/abhishekk-prajapati/blob/main/assets/ai.gif" width="350"/>
+  I am a <b>Computer Science Engineering student</b> dedicated to bridging the gap between mathematical theory and intelligent software. I specialize in building <b>machine learning models</b> and <b>data-driven applications</b>, focusing on turning complex datasets into actionable insights.
 </p>
 
 ---
 
-## 🧠 **About Me**
-I'm a **Computer Science Engineering student** who loves turning  
-**data, math, and code into intelligent systems**.
+## 🛠️ **Technical Expertise**
 
-I enjoy building **machine learning models, data-driven applications, and software solutions** that solve real-world problems.
-
-🎯 My goal is to become a **strong AI & software engineer** with solid foundations in **Machine Learning and Data Science**.
-
----
-
-## 🔬 **What I'm Learning & Building**
-- 🤖 Machine Learning (classification, prediction, regression)
-- 📊 Data Analysis using Pandas & NumPy
-- 🧠 AI & Neural Network fundamentals
-- 🐍 Advanced Python Backend Development
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Advanced), JavaScript, HTML5, CSS3, SQL |
+| **Machine Learning** | Scikit-learn, Random Forest, Logistic Regression, Neural Networks |
+| **Data Science** | Pandas, NumPy, Exploratory Data Analysis (EDA), Jupyter Notebook |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux, MySQL |
 
 ---
 
-## 🛠️ **Tech Stack**
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,linux" />
-</p>
+## 🔬 **Featured Projects**
 
-<p align="center">
-<b>Libraries & Tools:</b> Pandas • NumPy • Scikit-learn • Jupyter Notebook
-</p>
+### ❤️ **Heart Disease Prediction System**
+* **Role:** Lead Developer / ML Researcher
+* **Tech Stack:** Python, Scikit-learn, Pandas, NumPy
+* **Overview:** Developed a predictive classification model using **Random Forest** and **Logistic Regression**. The project focuses on early detection of cardiac risks by processing clinical patient data.
 
----
+### 📊 **Advanced Data Analysis Portfolio**
+* **Tech Stack:** Pandas, Matplotlib, Seaborn
+* **Overview:** A collection of EDA (Exploratory Data Analysis) projects where I transform raw data into visual stories, identifying trends and anomalies for informed decision-making.
 
-## 📌 **Highlighted Projects**
-| Project | Description |
-|--------|-------------|
-| ❤️ **Heart Disease Prediction** | ML model using Random Forest, Logistic Regression & Sigmoid |
-| 📊 **Data Analysis Projects** | Exploratory data analysis using Pandas & NumPy |
-| 🐍 **Python Scripts** | Automated tools and logic-based software projects |
+### 🐍 **Automation & Logic Tools**
+* **Tech Stack:** Python
+* **Overview:** Engineered various backend scripts and automated tools designed to optimize repetitive tasks and solve algorithmic challenges.
 
 ---
 
-## 📈 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekk-prajapati&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekk-prajapati&theme=radical" width="48%" />
-</p>
+## 🧠 **Learning Roadmap**
 
----
-
-## 🧬 **Most Used Languages**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-prajapati&layout=compact&theme=radical" width="50%" />
-</p>
+I am currently deepening my expertise in the following areas to build more robust AI systems:
+* **Mathematical Foundations:** Strengthening my grasp of Linear Algebra and Calculus for deep learning.
+* **Backend Engineering:** Scalable Python development and API integration.
+* **Deep Learning:** Exploring Neural Network architectures and their real-world applications.
 
 ---
 
 ## 🌐 **Connect With Me**
-<p align="center">
+
+<p align="left">
 <a href="mailto:akprajapati71004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/abhishekk-prajapati">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishek-prajapati-243823223/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I’m fascinated by how **Machine Learning and Neural Networks turn mathematics into intelligence.**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-✨ _Learning every day. Building one project at a time._
+### ⚡ **Fun Fact**
+> I am fascinated by the intersection of mathematics and code—specifically how linear algebra serves as the "engine" that allows Neural Networks to learn and evolve.
