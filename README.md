@@ -8,8 +8,7 @@
 ---
 
 ## 🧠 About Me
-I am a **Computer Science Engineering student** with a strong interest in  
-**Machine Learning, Data Science, and Software Development**.
+I am a **Computer Science Engineering student** at Bharati Vidyapeeth College of Engineering with a strong interest in **Machine Learning, Data Science, and Software Development**.
 
 I focus on building **practical, real-world projects** that demonstrate:
 - Problem-solving ability  
@@ -21,11 +20,11 @@ I focus on building **practical, real-world projects** that demonstrate:
 ---
 
 ## 🔬 Core Skills & Learning Focus
-- 🤖 Machine Learning (Supervised Learning, Model Evaluation)
-- 📊 Data Analysis (Pandas, NumPy, Data Cleaning)
-- 🧠 Fundamentals of AI & Neural Networks
-- 🐍 Python Development (Scripts, Backend Logic)
-- 📈 Problem Solving & Logical Thinking
+- 🤖 **Machine Learning**: Supervised Learning, Ensemble Methods, Model Evaluation
+- 📝 **Natural Language Processing (NLP)**: Text Preprocessing, TF-IDF, Transformer Benchmarking
+- 📊 **Data Analysis**: Pandas, NumPy, Feature Engineering, Z-score Normalization
+- 🧠 **Fundamentals of AI**: Gradient Descent Optimization, Linear Algebra
+- 🐍 **Python Development**: Automated Data Scraping (APIs), Backend Logic, Streamlit Deployment
 
 ---
 
@@ -35,38 +34,41 @@ I focus on building **practical, real-world projects** that demonstrate:
 </p>
 
 <p align="center">
-<b>Libraries & Tools:</b> Pandas • NumPy • Scikit-learn • Jupyter Notebook
+<b>Libraries & Tools:</b> Pandas • NumPy • Scikit-learn • Streamlit • DistilBERT • arXiv API • Jupyter Notebook
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
+### 📝 Research Domain Classifier | NLP & API Integration
+- Automated the extraction of **2,500+ academic abstracts** across 5 domains using the **arXiv API**.
+- Benchmarked a **TF-IDF + Logistic Regression** pipeline against a **DistilBERT Transformer**, achieving a peak accuracy of **88.4%**.
+- Outperformed the transformer baseline by **3.6%** through targeted statistical tuning and regex-based preprocessing.
+- Deployed a real-time **Streamlit dashboard** for interactive domain prediction and inference.
+
+---
+
 ### ❤️ Heart Disease Prediction System
-- Built a machine learning model using **Logistic Regression & Random Forest**
-- Performed **data preprocessing, feature selection, and model evaluation**
-- Focused on improving prediction accuracy and interpretability
+- Architected a predictive suite using **NumPy**, implementing **Logistic Regression & Random Forest from scratch**.
+- Manually coded **Gradient Descent** and **Bootstrap Sampling** to ensure deep mathematical transparency.
+- Achieved **88.52% Accuracy** and **89.2% F1-Score** using custom-built algorithm logic.
+- Visualized assessments through an interactive **Streamlit** diagnostic dashboard.
 
 ---
 
 ### 📊 Data Analysis Projects
-- Conducted **Exploratory Data Analysis (EDA)** on real-world datasets  
-- Used **Pandas & NumPy** for data cleaning, transformation, and insights  
-- Visualized trends and patterns for better decision-making  
-
----
-
-### 🐍 Python Automation & Logic-Based Projects
-- Developed scripts to automate tasks and solve computational problems  
-- Strengthened understanding of **core programming and logic building**
+- Conducted **Exploratory Data Analysis (EDA)** on real-world datasets using **Pandas & NumPy**.
+- Applied **Z-score Normalization** and feature selection to improve model interpretability.
+- Visualized trends and patterns for better data-driven decision-making.
 
 ---
 
 ## 📈 What Makes My Profile Strong
-- Focus on **practical implementation over theory**
-- Continuous learning in **AI, ML, and Data Science**
-- Writing clean, readable, and structured code
-- Building projects that solve **real-world problems**
+- **Algorithmic Mastery**: Building complex ML models from scratch using NumPy.
+- **Benchmarking Focus**: Comparing traditional statistical models against deep learning (Transformers).
+- **End-to-End Delivery**: Handling everything from API data scraping to real-time web deployment.
+- **Clean Code**: Writing structured, readable, and scalable Python scripts.
 
 ---
 
